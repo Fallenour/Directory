@@ -70,8 +70,8 @@
 | Component   | Description |
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
-| Backend     | Django, Python, Javascript, REST,       |
-| Database     | <text>       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
