@@ -61,10 +61,11 @@
 ---
 
 ## Warehouse-Management-System
-- Project Description
+> Personal statement to this project
 
 ---
-### Overview
+### Overview 
+- Project Description
 ---
 
 | Component   | Description |
