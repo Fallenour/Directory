@@ -13,7 +13,7 @@
 - [Django](#third-party-packages)
   - [Warehouse Management System](#Warehouse-Management-System)
   - [Vehicle-Service-Management-System](#Vehicle-Service-Management-System)
-  - [University-Residence-Management-System](#University-Residence-Management-System-Django)
+  - [University-Residence-Management-System](#University-Residence-Management-System)
   - [Caching](#caching)
   - [Commands](#commands)
   - [Configuration](#configuration)
