@@ -11,7 +11,7 @@
 ## Table of Contents
 
 - [Django](#third-party-packages)
-  - [Warehouse Management System](#Warehouse-Management-System)
+  - [Warehouse Management System](#Warehouse Management System)
   - [APIs](#apis)
   - [Async](#async)
   - [Caching](#caching)
@@ -60,7 +60,7 @@
 ---
 ---
 
-### Warehouse-Management-System
+## Warehouse Management System
 - [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) - Project Description
 
 ---
