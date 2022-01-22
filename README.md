@@ -51,10 +51,12 @@
 - [Projects](#projects)
   - [Boilerplate](#boilerplate)
 - [Educational Content](#django-rest-framework)
-  - [Awesome-Django](#drf-resources)
-  - [Awesome-Javascript](#drf-tutorials)
-- [Wagtail](#wagtail)
-  - [Wagtail Resources](#wagtail-resources)
+  - [Awesome-Django](#awesome-django)
+  - [Awesome-Javascript](#awesome-javascript)
+  - [Awesome-Flask](#awesome-flask)
+  - [Awesome-Bootstrap5](#awesome-bootstrap)
+- [Conference Talks](#conferencetalks)
+  - [BSides](#BSides)
 
 ---
 ---
