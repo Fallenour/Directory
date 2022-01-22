@@ -69,10 +69,12 @@
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Frontend    | <text>       |
-| Backend     | <text>       |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST,       |
 | Database     | <text>       |
-| Frameworks     | <text>       |
-| Containerized     | <text>       |
-| SAST/DAST Complete | <text>       |  
-| Production Ready     | <text>       |  
+| Automations     | Celery    |
+| Datalake     | Elastic      |  
+| Frameworks     | <text>     |
+| Containerized     | <text>  |
+| SAST/DAST Complete | <text> |  
+| Production Ready   | <text> |  
