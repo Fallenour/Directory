@@ -12,7 +12,7 @@
 
 - [Django](#third-party-packages)
   - [Warehouse Management System](#Warehouse-Management-System)
-  - [Vehicle-Service-Management-System](#Vehicle-Service-Management-System-Django )
+  - [Vehicle-Service-Management-System](#Vehicle-Service-Management-System)
   - [Async](#async)
   - [Caching](#caching)
   - [Commands](#commands)
