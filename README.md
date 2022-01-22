@@ -12,7 +12,7 @@
 
 - [Django](#third-party-packages)
   - [Warehouse Management System](#Warehouse-Management-System)
-  - [APIs](#apis)
+  - [Vehicle-Service-Management-System](#Vehicle-Service-Management-System-Django )
   - [Async](#async)
   - [Caching](#caching)
   - [Commands](#commands)
@@ -80,3 +80,26 @@
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
 | Link | [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) |
+
+---
+## Vehicle-Service-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Vehicle-Service-Management-System](https://github.com/Fallenour/Vehicle-Service-Management-System-Django) |
