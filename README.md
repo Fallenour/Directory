@@ -71,3 +71,8 @@
 | ----------- | ----------- |
 | Frontend    | <text>       |
 | Backend     | <text>       |
+| Database     | <text>       |
+| Frameworks     | <text>       |
+| Containerized     | <text>       |
+| SAST/DAST Complete | <text>       |  
+| Production Ready     | <text>       |  
