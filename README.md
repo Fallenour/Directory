@@ -67,7 +67,7 @@
 ### Overview
 ---
 
-| Syntax      | Description |
+| Component   | Description |
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST,       |
