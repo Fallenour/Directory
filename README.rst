@@ -60,8 +60,7 @@
 ### Warehouse-Management-System
 - [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) - Project Description
 
-========
-Overview
+### Overview
 ========
 
 .. start-badges
