@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-- [Third-Party Packages](#third-party-packages)
+- [Django](#third-party-packages)
   - [Admin](#admin)
   - [APIs](#apis)
   - [Async](#async)
@@ -36,8 +36,8 @@
   - [URLs](#urls)
   - [Users](#users)
   - [Views](#views)
-- [Python Packages](#python-packages)
-- [Resources](#resources)
+- [Javascript](#javascript)
+- [Flask](#flask)
   - [Official Resources](#official-resources)
   - [Educational](#educational)
   - [Community](#community)
@@ -45,7 +45,7 @@
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
   - [Books](#books)
-- [Hosting](#hosting)
+- [Hosted Projects](#hosting)
   - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
   - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
 - [Projects](#projects)
