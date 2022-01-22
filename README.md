@@ -50,10 +50,9 @@
   - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
 - [Projects](#projects)
   - [Boilerplate](#boilerplate)
-  - [Open Source Projects](#open-source-projects)
-- [Django REST Framework](#django-rest-framework)
-  - [DRF Resources](#drf-resources)
-  - [DRF Tutorials](#drf-tutorials)
+- [Educational Content](#django-rest-framework)
+  - [Awesome-Django](#drf-resources)
+  - [Awesome-Javascript](#drf-tutorials)
 - [Wagtail](#wagtail)
   - [Wagtail Resources](#wagtail-resources)
 
