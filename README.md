@@ -130,3 +130,917 @@
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
 | Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+#######
+
+---
+---
+## Teacher-Evaluation-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Teacher-Evaluation-System](https://github.com/Fallenour/Teacher-Evaluation-System-Django) |
+
+---
+---
+## Supermarket-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Supermarket-Management-System](https://github.com/Fallenour/Supermarket-Management-System-Django) |
+
+---
+---
+## Student-Requisition-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Student-Requisition-System](https://github.com/Fallenour/Student-Requisition-System-Django) |
+
+---
+---
+## Student-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Student-Management-System](https://github.com/Fallenour/Student-Management-System-Django) |
+
+---
+---
+## Student-Feedback-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Student-Feedback-System](https://github.com/Fallenour/Student-Feedback-System-Django) |
+
+---
+---
+## School-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [School-Management-System](https://github.com/Fallenour/School-Management-System-Django) |
+
+---
+---
+## Quiz-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Quiz-Management-System](https://github.com/Fallenour/Quiz-Management-System-Django) |
+
+---
+---
+## Project-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Project-Management-System](https://github.com/Fallenour/Project-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
