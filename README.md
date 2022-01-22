@@ -75,7 +75,7 @@
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
-| Frameworks     | Django, Django Rest Framework (Django-DRF)     |
-| Containerized     | <text>  |
-| SAST/DAST Complete | <text> |  
-| Production Ready   | <text> |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
