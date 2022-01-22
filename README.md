@@ -73,6 +73,7 @@
 | Backend     | Django, Python, Javascript, REST,       |
 | Database     | <text>       |
 | Automations     | Celery    |
+| Caching     | Redis    |  
 | Datalake     | Elastic      |  
 | Frameworks     | <text>     |
 | Containerized     | <text>  |
