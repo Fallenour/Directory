@@ -13,7 +13,7 @@
 - [Django](#third-party-packages)
   - [Warehouse Management System](#Warehouse-Management-System)
   - [Vehicle-Service-Management-System](#Vehicle-Service-Management-System)
-  - [Async](#async)
+  - [University-Residence-Management-System](#University-Residence-Management-System-Django)
   - [Caching](#caching)
   - [Commands](#commands)
   - [Configuration](#configuration)
@@ -104,3 +104,27 @@
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
 | Link | [Vehicle-Service-Management-System](https://github.com/Fallenour/Vehicle-Service-Management-System-Django) |
+
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
