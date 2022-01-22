@@ -61,7 +61,7 @@
 ---
 
 ## Warehouse-Management-System
-- [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) - Project Description
+- Project Description
 
 ---
 ### Overview
@@ -79,3 +79,4 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
+| Link | [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) |
