@@ -1290,8 +1290,80 @@
 
 ---
 ---
-## University-Residence-Management-System
+## Django-DefectDojo
 > Personal statement to this project
+
+---
+### Overview 
+- DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Django-DefectDojo](https://github.com/Fallenour/django-DefectDojo) |
+
+---
+---
+## Django Channels
+> Personal statement to this project
+
+---
+### Overview 
+- Developer-friendly asynchrony for Django
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [Django-Channels](https://github.com/Fallenour/channels) |
+
+---
+---
+## Django-Storages
+> Personal statement to this project
+
+---
+### Overview 
+- Django-storages is a collection of custom storage backends for Django.
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [django-storages](https://github.com/Fallenour/django-storages) |
+
+---
+---
+## Django-graphene
+> Integrate GraphQL into your Django project.
 
 ---
 ### Overview 
@@ -1310,16 +1382,16 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Django-Graphene](https://github.com/Fallenour/graphene-django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Django-Helpdesk
 > Personal statement to this project
 
 ---
 ### Overview 
-- Project Description
+- A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 ---
 
 | Component   | Description |
@@ -1334,79 +1406,7 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
-
----
----
-## University-Residence-Management-System
-> Personal statement to this project
-
----
-### Overview 
-- Project Description
----
-
-| Component   | Description |
-| ----------- | ----------- |
-| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
-| Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
-| Automations     | Celery    |
-| Caching     | Redis    |  
-| Datalake     | Elastic      |  
-| Frameworks     | Django, Django Rest Framework     |
-| Containerized     | Ready |
-| SAST/DAST Complete | SonarQube, No |  
-| Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
-
----
----
-## University-Residence-Management-System
-> Personal statement to this project
-
----
-### Overview 
-- Project Description
----
-
-| Component   | Description |
-| ----------- | ----------- |
-| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
-| Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
-| Automations     | Celery    |
-| Caching     | Redis    |  
-| Datalake     | Elastic      |  
-| Frameworks     | Django, Django Rest Framework     |
-| Containerized     | Ready |
-| SAST/DAST Complete | SonarQube, No |  
-| Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
-
----
----
-## University-Residence-Management-System
-> Personal statement to this project
-
----
-### Overview 
-- Project Description
----
-
-| Component   | Description |
-| ----------- | ----------- |
-| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
-| Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
-| Automations     | Celery    |
-| Caching     | Redis    |  
-| Datalake     | Elastic      |  
-| Frameworks     | Django, Django Rest Framework     |
-| Containerized     | Ready |
-| SAST/DAST Complete | SonarQube, No |  
-| Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [django-helpdesk](https://github.com/Fallenour/django-helpdesk) |
 
 ---
 ---
