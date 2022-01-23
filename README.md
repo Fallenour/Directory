@@ -327,7 +327,7 @@
 
 ---
 ---
-## University-Residence-Management-System
+## Portfolio-Management-System
 > Personal statement to this project
 
 ---
@@ -347,11 +347,11 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Portfolio-Management-System](https://github.com/Fallenour/Portfolio-Management-System-Django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Pathology-Lab-Management-System
 > Personal statement to this project
 
 ---
@@ -371,11 +371,11 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Pathology-Lab-Management-System](https://github.com/Fallenour/Pathology-Lab-Management-System-Django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Water-Management-System
 > Personal statement to this project
 
 ---
@@ -395,11 +395,11 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Water-Management-System](https://github.com/Fallenour/Water-Management-System-Django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Video-Management-System
 > Personal statement to this project
 
 ---
@@ -419,11 +419,11 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Video-Management-System](https://github.com/Fallenour/Video-Management-System-Django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Medical-Management-System
 > Personal statement to this project
 
 ---
@@ -443,11 +443,11 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Medical-Management-System](https://github.com/Fallenour/Medical-Management-System-Django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Learning-Management-System
 > Personal statement to this project
 
 ---
@@ -467,11 +467,11 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Learning-Management-System](https://github.com/Fallenour/Learning-Management-System-Django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Job-Portal-System
 > Personal statement to this project
 
 ---
@@ -491,11 +491,11 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Job-Portal-System](https://github.com/Fallenour/Job-Portal-System-Django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Healthcare-Management-System
 > Personal statement to this project
 
 ---
@@ -515,11 +515,11 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Healthcare-Management-System](https://github.com/Fallenour/Healthcare-Management-System-Django) |
 
 ---
 ---
-## University-Residence-Management-System
+## Grading-Management-System
 > Personal statement to this project
 
 ---
@@ -539,7 +539,7 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+| Link | [Grading-Management-System](https://github.com/Fallenour/Grading-Management-System-Django) |
 
 ---
 ---
