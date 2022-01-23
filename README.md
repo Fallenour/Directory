@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-- [Django](#third-party-packages)
+- [Django](#Django)
   - [Warehouse Management System](#Warehouse-Management-System)
   - [Vehicle-Service-Management-System](#Vehicle-Service-Management-System)
   - [University-Residence-Management-System](#University-Residence-Management-System)
