@@ -1410,6 +1410,198 @@
 
 ---
 ---
+## Django-Haystack
+> Personal statement to this project
+
+---
+### Overview 
+- Modular search for Django
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [django-haystack](https://github.com/Fallenour/django-haystack) |
+
+---
+---
+## Django-debug-toolbar
+> Personal statement to this project
+
+---
+### Overview 
+- A configurable set of panels that display various debug information about the current request/response.
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [django-debug-toolbar](https://github.com/Fallenour/django-debug-toolbar) |
+
+---
+---
+## Django-Guardian
+> Personal statement to this project
+
+---
+### Overview 
+- Per object permissions for Django
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [django-guardian](https://github.com/Fallenour/django-guardian) |
+
+---
+---
+## Django-Registration
+> Personal statement to this project
+
+---
+### Overview 
+- Django-registration (redux) provides user registration functionality for Django websites.
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [django-registration](https://github.com/Fallenour/django-registration) |
+
+---
+---
+## Django-Tastypie
+> Personal statement to this project
+
+---
+### Overview 
+- Creating delicious APIs for Django apps since 2010.
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [django-tastypie](https://github.com/Fallenour/django-tastypie) |
+  
+  ---
+---
+## Django-Wiki
+> Personal statement to this project
+
+---
+### Overview 
+- A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [django-wiki](https://github.com/Fallenour/django-wiki) |
+  
+---
+---
+## Django-Mptt
+> Personal statement to this project
+
+---
+### Overview 
+- Utilities for implementing a modified pre-order traversal tree in django.
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [django-mptt](https://github.com/Fallenour/django-mptt) |
+
+---
+---
+## eLearning
+> Personal statement to this project
+
+---
+### Overview 
+- eLearning is scalable web application written in python (django)
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [eLearning](https://github.com/Fallenour/eLearning) |
+  
+---
+---
 ## University-Residence-Management-System
 > Personal statement to this project
 
@@ -1503,7 +1695,7 @@
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
 | Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
-
+  
 ---
 ---
 ## University-Residence-Management-System
@@ -1527,4 +1719,51 @@
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
 | Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+  
+ ---
+---
+## University-Residence-Management-System
+> Personal statement to this project
 
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+  
+---
+---
+## University-Residence-Management-System
+> Personal statement to this project
+
+---
+### Overview 
+- Project Description
+---
+
+| Component   | Description |
+| ----------- | ----------- |
+| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Backend     | Django, Python, Javascript, REST       |
+| Database     | PostgreSql       |
+| Automations     | Celery    |
+| Caching     | Redis    |  
+| Datalake     | Elastic      |  
+| Frameworks     | Django, Django Rest Framework     |
+| Containerized     | Ready |
+| SAST/DAST Complete | SonarQube, No |  
+| Production Ready   | No |  
+| Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
