@@ -774,7 +774,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -798,7 +798,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | MySQL       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -822,7 +822,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -846,7 +846,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -870,7 +870,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -894,7 +894,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3      |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -918,7 +918,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -942,7 +942,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -950,7 +950,7 @@
 | Containerized     | Ready |
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
-| Link | [Inventory-Management-System](https://github.com/Fallenour/Inventory-Management-System) |
+| Link | [Inventory-Management-System](https://github.com/Fallenour/Inventory-Management-System-Django) |
 
 ---
 ---
@@ -966,7 +966,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -990,7 +990,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -1014,7 +1014,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -1038,7 +1038,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -1062,7 +1062,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
@@ -1086,7 +1086,7 @@
 | ----------- | ----------- |
 | Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
 | Backend     | Django, Python, Javascript, REST       |
-| Database     | PostgreSql       |
+| Database     | dbsqlite3       |
 | Automations     | Celery    |
 | Caching     | Redis    |  
 | Datalake     | Elastic      |  
