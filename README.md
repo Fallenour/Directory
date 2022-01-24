@@ -18,9 +18,6 @@
   <a href="https://www.buymeacoffee.com/fallenour" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
-    
-<a href="https://codesandbox.io/u/fallenour">
-  <img align="right" alt="Logan Hicks | CodeSandbox" width="20px" src="https://seeklogo.com/vector-logo/349463/code-sandbox"/>
 
 <h2>GitHub Stats</h2>
 <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fallenour&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallenour&layout=compact&theme=buefy&hide_border=true" /></a>
