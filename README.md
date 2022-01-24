@@ -1768,3 +1768,11 @@
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
 | Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
+  
+# Javascript
+# Flask
+# Hosted Projects
+# Educational Content
+# Conference Talks
+# Projects
+
