@@ -91,8 +91,19 @@
   - [Awesome-Javascript](#awesome-javascript)
   - [Awesome-Flask](#awesome-flask)
   - [Awesome-Bootstrap5](#awesome-bootstrap)
+  - [Awesome-sass](#awesome-sass)
+  - [Awesome-css](#awesome-css)
+  - [Awesome-tailwind](#awesome-tailwind)
+  - [Awesome-elastic](#awesome-elastic)
+  - [Awesome-postgres](#awesome-postgres)
+  - [Awesome-saltstack](#awesome-saltstack)
+  - [Awesome-git](#awesome-git)
+  - [Awesome-github](#awesome-github)
 - [Conference Talks](#conferencetalks)
   - [BSides](#BSides)
+  - [University](#University)
+  - [Coding](#Coding)
+  - [Vendor](#Vendor)
 
 ---
 ---
