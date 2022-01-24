@@ -1,5 +1,8 @@
 <h2> 👋 Introduction </h2>
 
+Reserved field of text for relative description. 
+![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fallenour)
+
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='40"'>
 
@@ -34,8 +37,6 @@
 
 <h2> ⚡ GitHub Stats</h2>
 <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fallenour&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallenour&layout=compact&theme=buefy&hide_border=true" /></a>
-
-![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fallenour)
 
 ---
 ---
