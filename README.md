@@ -40,7 +40,9 @@ Reserved field of text for relative description.
 <h2> ⚡ GitHub Stats</h2>
 <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fallenour&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallenour&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<code><img height="40" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallenour&theme=github_dark"</code>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallenour&theme=github_dark)
+
+<a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallenour&theme=github_dark" alt="Fallenour's github stats" /></a> 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fallenour&theme=github_dark)
 
