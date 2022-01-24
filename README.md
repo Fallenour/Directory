@@ -1796,8 +1796,6 @@
 # Javascript
 # Flask
 # Hosted Projects
-# Educational Content
-# Conference Talks
 # Projects
-# Educational-Content
+# Educational Content  
 # Conference
