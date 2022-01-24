@@ -90,7 +90,7 @@
   - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
 - [Projects](#projects)
   - [Boilerplate](#boilerplate)
-- [Educational Content](#django-rest-framework)
+- [Educational Content](#Educational-Content)
   - [Awesome-Django](#awesome-django)
   - [Awesome-Javascript](#awesome-javascript)
   - [Awesome-Flask](#awesome-flask)
@@ -103,7 +103,7 @@
   - [Awesome-saltstack](#awesome-saltstack)
   - [Awesome-git](#awesome-git)
   - [Awesome-github](#awesome-github)
-- [Conference Talks](#conferencetalks)
+- [Conference Talks](#conference)
   - [BSides](#BSides)
   - [University](#University)
   - [Coding](#Coding)
@@ -1799,4 +1799,5 @@
 # Educational Content
 # Conference Talks
 # Projects
-
+# Educational-Content
+# Conference
