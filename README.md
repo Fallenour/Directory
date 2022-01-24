@@ -26,7 +26,7 @@
 <code><img height="40" src="https://camo.githubusercontent.com/4397696224a4908df40488e4cf85be42acd97cf36ae64781a46f8ff8696d7a8c/68747470733a2f2f7777772e656c61737469632e636f2f7374617469632d7265732f696d616765732f656c61737469632d6c6f676f2d3230302e706e67"></code>
 <code><img height="40" src="https://i.pinimg.com/564x/f5/6a/53/f56a53105f650afd6058f9f1502f7299.jpg"></code>
 
-<h2>Socials</h2>
+<h2> 📫 Socials</h2>
 
 <p><a href="https://www.twitter.com/fallenour"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/thewhitewizard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/fallenour/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@fallenour"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/fallenour"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 <p><a href="https://github.com/Fallenour/Directory">➡️ Check out my website</a></p>
