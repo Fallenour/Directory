@@ -7,6 +7,10 @@
     </a>
 
 <h2>GitHub Stats</h2>
+| <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fallenour&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fallenour's github stats" /></a> | <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallenour&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=fallenour&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fallenour&layout=compact)
