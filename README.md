@@ -42,7 +42,7 @@ Reserved field of text for relative description.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallenour&theme=github_dark)
 
-<a href="https://github.com/fallenour/github-readme-stats"><img align="center" img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallenour&theme=github_dark" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fallenour&theme=github_dark" /></a>
+<a href="https://github.com/fallenour/github-readme-stats"><img align="center" img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallenour&theme=github_dark" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fallenour&theme=github_dark" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fallenour&theme=github_dark)
 
