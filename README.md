@@ -58,11 +58,6 @@ Please pardon the progress, updates are currently being made in real time to thi
 ---
 ---
 
-<div align="center"> <b>My Spirit Animal</b>
-  <a href="https://github.com/fallenour/directory#readme"></a><br>
-  <img width="4000" src="https://i.pinimg.com/originals/9d/43/d4/9d43d45ab6cd7303707dbad3193bcb8b.jpg" alt="Spirit Animal logo">
-</div>
-
 # Tour Guide
 > This Tour Guide is to assist you in the navigation of this rather lengthy tour of my professional & personal accomplishments. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
 
@@ -1749,6 +1744,10 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 ---
 ---
+<div align="center"> <b>My Spirit Animal</b>
+  <a href="https://github.com/fallenour/directory#readme"></a><br>
+  <img width="4000" src="https://i.pinimg.com/originals/9d/43/d4/9d43d45ab6cd7303707dbad3193bcb8b.jpg" alt="Spirit Animal logo">
+</div>
   
 <div align="center">
   <a href="https://github.com/fallenour/directory#readme"></a><br>
