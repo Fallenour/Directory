@@ -141,28 +141,14 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Techniques, Tactics & Procedures
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
+| OSINT | <space holder> | [Link](https://github.com/fallenour/awesome-osint) |
 
 ### Conferences
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
 | BSides | <space holder> | [Link](http://www.securitybsides.com/w/page/12194156/FrontPage) |
 | DjangoCon | <space holder> | [Link](https://2021.djangocon.us) |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
+
   
 ### Educational Content
 | Resource Type | Synopsis | Link |
