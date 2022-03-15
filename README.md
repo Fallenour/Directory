@@ -83,6 +83,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 ## 📖 Table of Resources
 
+### Programming Languages
 | Resource Type | Synopsis | Link | Status |
 | ----------- | ----------- | ----------- | ----------- |
 | Django, Fullstack | <space holder> | Link | In-Progress |
@@ -95,8 +96,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
 
-####
-
+### Tools
 | Resource Type | Synopsis | Link | Status |
 | ----------- | ----------- | ----------- | ----------- |
 | Django, Fullstack | <space holder> | Link | In-Progress |
@@ -109,34 +109,33 @@ Please pardon the progress, updates are currently being made in real time to thi
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
 
-####
+### Techniques, Tactics & Procedures
+| Resource Type | Synopsis | Link | Status |
+| ----------- | ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+
+### Conferences
+| Resource Type | Synopsis | Link | Status |
+| ----------- | ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
   
-| Resource Type | Synopsis | Link | Status |
-| ----------- | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-
-####
-| Resource Type | Synopsis | Link | Status |
-| ----------- | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-  
-####
+### Educational Content
 | Resource Type | Synopsis | Link | Status |
 | ----------- | ----------- | ----------- | ----------- |
 | Django, Fullstack | <space holder> | Link | In-Progress |
