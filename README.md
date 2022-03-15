@@ -131,12 +131,12 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Tools
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
-| Metasploit | <space holder> | [Link] |
-| Burpsuite | <space holder> | [Link] |  
-| Bloodhound | <space holder> | [Link] |
-| NMap | <space holder> | [Link] |
-| SQLMap | <space holder> | [Link] | 
-| SQLNinja | <space holder> | [Link] |
+| Metasploit | <space holder> | [Link](https://www.metasploit.com) |
+| Burpsuite | <space holder> | [Link](https://portswigger.net/burp) |  
+| Bloodhound | <space holder> | [Link](https://github.com/BloodHoundAD/BloodHound) |
+| NMap | <space holder> | [Link](https://nmap.org) |
+| SQLMap | <space holder> | [Link](https://sqlmap.org) | 
+| SQLNinja | <space holder> | [Link](https://www.kali.org/tools/sqlninja/) |
 
 ### Techniques, Tactics & Procedures
 | Resource Type | Synopsis | Link |
@@ -154,7 +154,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Conferences
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | [Link] |
+| BSides | <space holder> | [Link](http://www.securitybsides.com/w/page/12194156/FrontPage) |
 | Django, Fullstack | <space holder> | [Link] |
 | Django, Fullstack | <space holder> | [Link] |
 | Django, Fullstack | <space holder> | [Link] |
@@ -167,10 +167,10 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Educational Content
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
+| Real Python | <space holder> | [Link] |
+| TestDriven | <space holder> | [Link] |
+| SecurityTube | <space holder> | [Link] |
+| W3 School | <space holder> | [Link] |
 | Django, Fullstack | <space holder> | [Link] |
 | Django, Fullstack | <space holder> | [Link] |
 | Django, Fullstack | <space holder> | [Link] |
