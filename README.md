@@ -86,15 +86,21 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Programming Languages
 | Resource Type | Synopsis | Link | Status |
 | ----------- | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django | <space holder> | Link | In-Progress |
+| Flask | <space holder> | Link | In-Progress |
+| Python | <space holder> | Link | In-Progress |
+| Javascript | <space holder> | Link | In-Progress |
+| VueJS | <space holder> | Link | In-Progress |
+| ReactJS | <space holder> | Link | In-Progress |
+| AngularJS | <space holder> | Link | In-Progress |
+| NodeJS | <space holder> | Link | In-Progress |
+| MeteorJS | <space holder> | Link | In-Progress |
+| Bootstrap5 | <space holder> | Link | In-Progress |
+| SASS | <space holder> | Link | In-Progress |
+| CSS3 | <space holder> | Link | In-Progress |
+| Tailwind | <space holder> | Link | In-Progress |
+
+
 
 ### Tools
 | Resource Type | Synopsis | Link | Status |
