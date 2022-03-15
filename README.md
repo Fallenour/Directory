@@ -95,6 +95,60 @@ Please pardon the progress, updates are currently being made in real time to thi
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
 
+####
+
+| Resource Type | Synopsis | Link | Status |
+| ----------- | ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+
+####
+  
+| Resource Type | Synopsis | Link | Status |
+| ----------- | ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+
+####
+| Resource Type | Synopsis | Link | Status |
+| ----------- | ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+  
+####
+| Resource Type | Synopsis | Link | Status |
+| ----------- | ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+| Django, Fullstack | <space holder> | Link | In-Progress |
+
 - [Javascript](#javascript)
 - [Flask](#flask)
   - [Official Resources](#official-resources)
