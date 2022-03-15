@@ -2,8 +2,6 @@
 
 Caffiene fueled, adreneline driven, TDD based multi-discipline principal architect with a push it till it breaks mentality. 
 
-I'll eat your lunch, my lunch, the ticket queue, and the pipeline too, because I want it more than you do & Im a fatass whos hungry for more knowledge, capabilities, and those damn orange flavored creme filled cupcakes by Hostess. 
-
 I believe respect & recognition are both earned, and I give credit where its due. You won't find participation trophies here.
 
 I acknowledge hardwork, effort, and honest attempts, even when it fails. I push people to become their best version of themselves, even if they don't believe it themselves, and I only believe you fail when you stop trying. I believe that anyone can become anything they can want to be, and they will become everything they believe they will be.
