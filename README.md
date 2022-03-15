@@ -171,52 +171,8 @@ Please pardon the progress, updates are currently being made in real time to thi
 | Podcasts | <space holder> | [Link]() |
 | Books | <space holder> | [Link]() |
 
-- [Javascript](#javascript)
-- [Flask](#flask)
-  - [Official Resources](#official-resources)
-  - [Educational](#educational)
-  - [Community](#community)
-  - [Conferences](#conferences)
-  - [Newsletters](#newsletters)
-  - [Podcasts](#podcasts)
-  - [Books](#books)
-- [Hosted Projects](#hosting)
-  - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
-  - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
-- [Projects](#projects)
-  - [Boilerplate](#boilerplate)
-- [Educational Content](#Educational-Content)
-  - [Awesome-Django](#-awesome-django)
-  - [Awesome-Javascript](#-awesome-javascript)
-  - [Awesome-Flask](#-awesome-flask)
-  - [Awesome-Bootstrap5](#-awesome-bootstrap)
-  - [Awesome-sass](#-awesome-sass)
-  - [Awesome-css](#-awesome-css)
-  - [Awesome-tailwind](#-awesome-tailwind)
-  - [Awesome-elastic](#-awesome-elastic)
-  - [Awesome-postgres](#-awesome-postgres)
-  - [Awesome-saltstack](#-awesome-saltstack)
-  - [Awesome-osint](#-awesome-osint)
-  - [Awesome-git](#-awesome-git)
-  - [Awesome-github](#-awesome-github)
-- [Conference Talks](#conference)
-  - [BSides](#BSides)
-  - [University](#University)
-  - [Coding](#Coding)
-  - [Vendor](#Vendor)
-  
-## [↑](#-table-of-contents) Javascript
-## [↑](#-table-of-contents) Flask
-## [↑](#-table-of-contents) Hosted Projects
-## [↑](#-table-of-contents) Projects
-## [↑](#-table-of-contents) Educational Content  
-## [↑](#-table-of-contents) Conference
-
 ---
 ---
-  
-
-
 
 # [↑](#tour-guide)Project Directory
 > A curated list of my projects, adopted projects, and projects that I actively contribute to or plan to. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
