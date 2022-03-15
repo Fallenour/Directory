@@ -84,100 +84,100 @@ Please pardon the progress, updates are currently being made in real time to thi
 ## 📖 Table of Resources
 
 ### Programming Languages
-| Resource Type | Synopsis | Link | Status |
-| ----------- | ----------- | ----------- | ----------- |
-| Django | <space holder> | Link | In-Progress |
-| Flask | <space holder> | Link | In-Progress |
-| Python | <space holder> | Link | In-Progress |
-| Javascript | <space holder> | Link | In-Progress |
-| VueJS | <space holder> | Link | In-Progress |
-| ReactJS | <space holder> | Link | In-Progress |
-| AngularJS | <space holder> | Link | In-Progress |
-| NodeJS | <space holder> | Link | In-Progress |
-| MeteorJS | <space holder> | Link | In-Progress |
-| Bootstrap5 | <space holder> | Link | In-Progress |
-| SASS | <space holder> | Link | In-Progress |
-| CSS3 | <space holder> | Link | In-Progress |
-| Tailwind | <space holder> | Link | In-Progress |
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Django | <space holder> | [Link] |
+| Flask | <space holder> | [Link] |
+| Python | <space holder> | [Link] |
+| Javascript | <space holder> | [Link] |
+| VueJS | <space holder> | [Link] |
+| ReactJS | <space holder> | [Link] |
+| AngularJS | <space holder> | [Link] |
+| NodeJS | <space holder> | [Link] |
+| MeteorJS | <space holder> | [Link] |
+| Bootstrap5 | <space holder> | [Link] |
+| SASS | <space holder> | [Link] |
+| CSS3 | <space holder> | [Link] |
+| Tailwind | <space holder> | [Link] |
 
 
 
 ### Systems
-| Resource Type | Synopsis | Link | Status |
-| ----------- | ----------- | ----------- | ----------- |
-| Elasticsearch | <space holder> | Link | In-Progress |
-| PostgreSQL | <space holder> | Link | In-Progress |
-| Saltstack | <space holder> | Link | In-Progress |
-| Chef | <space holder> | Link | In-Progress |
-| Puppet | <space holder> | Link | In-Progress |
-| Ansible | <space holder> | Link | In-Progress |
-| Juju | <space holder> | Link | In-Progress |
-| MaaS | <space holder> | Link | In-Progress |
-| HAProxy | <space holder> | Link | In-Progress |
-| NGinx | <space holder> | Link | In-Progress |
-| Docker | <space holder> | Link | In-Progress |
-| LXD | <space holder> | Link | In-Progress |
-| Openstack | <space holder> | Link | In-Progress |
-| OpenKVM | <space holder> | Link | In-Progress |
-| VMWare | <space holder> | Link | In-Progress |
-| Hyper-V | <space holder> | Link | In-Progress |
-| VirtualBox | <space holder> | Link | In-Progress |
-| Redis | <space holder> | Link | In-Progress |
-| Celery | <space holder> | Link | In-Progress |
-| SonarQube | <space holder> | Link | In-Progress |
-| MobSF | <space holder> | Link | In-Progress |
-| Gitlab | <space holder> | Link | In-Progress |
-| Jenkins | <space holder> | Link | In-Progress |
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Elasticsearch | <space holder> | [Link] |
+| PostgreSQL | <space holder> | [Link] |
+| Saltstack | <space holder> | [Link] |
+| Chef | <space holder> | [Link] |
+| Puppet | <space holder> | [Link] |
+| Ansible | <space holder> | [Link] |
+| Juju | <space holder> | [Link] |
+| MaaS | <space holder> | [Link] |
+| HAProxy | <space holder> | [Link] |
+| NGinx | <space holder> | [Link] |
+| Docker | <space holder> | [Link] |
+| LXD | <space holder> | [Link] |
+| Openstack | <space holder> | [Link] |
+| OpenKVM | <space holder> | [Link] |
+| VMWare | <space holder> | [Link] |
+| Hyper-V | <space holder> | [Link] |
+| VirtualBox | <space holder> | [Link] |
+| Redis | <space holder> | [Link] |
+| Celery | <space holder> | [Link] |
+| SonarQube | <space holder> | [Link] |
+| MobSF | <space holder> | [Link] |
+| Gitlab | <space holder> | [Link] |
+| Jenkins | <space holder> | [Link] |
   
 
 ### Tools
-| Resource Type | Synopsis | Link | Status |
-| ----------- | ----------- | ----------- | ----------- |
-| Metasploit | <space holder> | Link | In-Progress |
-| Burpsuite | <space holder> | Link | In-Progress |   
-| Bloodhound | <space holder> | Link | In-Progress | 
-| NMap | <space holder> | Link | In-Progress |  
-| SQLMap | <space holder> | Link | In-Progress |  
-| SQLNinja | <space holder> | Link | In-Progress | 
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Metasploit | <space holder> | [Link] |
+| Burpsuite | <space holder> | [Link] |  
+| Bloodhound | <space holder> | [Link] |
+| NMap | <space holder> | [Link] |
+| SQLMap | <space holder> | [Link] | 
+| SQLNinja | <space holder> | [Link] |
 
 ### Techniques, Tactics & Procedures
-| Resource Type | Synopsis | Link | Status |
-| ----------- | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
 
 ### Conferences
-| Resource Type | Synopsis | Link | Status |
-| ----------- | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
   
 ### Educational Content
-| Resource Type | Synopsis | Link | Status |
-| ----------- | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
+| Django, Fullstack | <space holder> | [Link] |
 
 - [Javascript](#javascript)
 - [Flask](#flask)
