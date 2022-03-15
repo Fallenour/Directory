@@ -67,7 +67,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 # Project Directory
 > A curated list of my projects, adopted projects, and projects that I actively contribute to or plan to. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
 
-## Table of Contents
+## 📖 Table of Contents
 
 - [Django](#Django)
   - [Warehouse Management System](#Warehouse-Management-System)
@@ -159,7 +159,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 ---
 
 # Django
-## Warehouse-Management-System
+## [↑](#-table-of-contents) Warehouse-Management-System
 > Personal statement to this project
 
 ---
@@ -183,7 +183,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Vehicle-Service-Management-System
+## [↑](#-table-of-contents) Vehicle-Service-Management-System
 > Personal statement to this project
 
 ---
@@ -207,7 +207,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents) University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -233,7 +233,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Teacher-Evaluation-System
+## [↑](#-table-of-contents) Teacher-Evaluation-System
 > Personal statement to this project
 
 ---
@@ -257,7 +257,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Supermarket-Management-System
+## [↑](#-table-of-contents) Supermarket-Management-System
 > Personal statement to this project
 
 ---
@@ -281,7 +281,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Student-Requisition-System
+## [↑](#-table-of-contents) Student-Requisition-System
 > Personal statement to this project
 
 ---
@@ -305,7 +305,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Student-Management-System
+## [↑](#-table-of-contents) Student-Management-System
 > Personal statement to this project
 
 ---
@@ -329,7 +329,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Student-Feedback-System
+## [↑](#-table-of-contents) Student-Feedback-System
 > Personal statement to this project
 
 ---
@@ -353,7 +353,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## School-Management-System
+## [↑](#-table-of-contents) School-Management-System
 > Personal statement to this project
 
 ---
@@ -377,7 +377,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Quiz-Management-System
+## [↑](#-table-of-contents) Quiz-Management-System
 > Personal statement to this project
 
 ---
@@ -401,7 +401,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Project-Management-System
+## [↑](#-table-of-contents) Project-Management-System
 > Personal statement to this project
 
 ---
@@ -425,7 +425,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Portfolio-Management-System
+## [↑](#-table-of-contents) Portfolio-Management-System
 > Personal statement to this project
 
 ---
@@ -449,7 +449,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Pathology-Lab-Management-System
+## [↑](#-table-of-contents) Pathology-Lab-Management-System
 > Personal statement to this project
 
 ---
@@ -473,7 +473,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Water-Management-System
+## [↑](#-table-of-contents) Water-Management-System
 > Personal statement to this project
 
 ---
@@ -497,7 +497,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Video-Management-System
+## [↑](#-table-of-contents) Video-Management-System
 > Personal statement to this project
 
 ---
@@ -521,7 +521,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Medical-Management-System
+## [↑](#-table-of-contents) Medical-Management-System
 > Personal statement to this project
 
 ---
@@ -545,7 +545,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Learning-Management-System
+## [↑](#-table-of-contents) Learning-Management-System
 > Personal statement to this project
 
 ---
@@ -569,7 +569,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Job-Portal-System
+## [↑](#-table-of-contents) Job-Portal-System
 > Personal statement to this project
 
 ---
@@ -593,7 +593,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Healthcare-Management-System
+## [↑](#-table-of-contents)  Healthcare-Management-System
 > Personal statement to this project
 
 ---
@@ -617,7 +617,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Grading-Management-System
+## [↑](#-table-of-contents)  Grading-Management-System
 > Personal statement to this project
 
 ---
@@ -641,7 +641,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents)  University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -665,7 +665,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Food-Ordering-System
+## [↑](#-table-of-contents)  Food-Ordering-System
 > Personal statement to this project
 
 ---
@@ -689,7 +689,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Financial-Management-System
+## [↑](#-table-of-contents)  Financial-Management-System
 > Personal statement to this project
 
 ---
@@ -713,7 +713,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Diagnostic-Lab-Reporting-System
+## [↑](#-table-of-contents)  Diagnostic-Lab-Reporting-System
 > Personal statement to this project
 
 ---
@@ -737,7 +737,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Company-Management-System
+## [↑](#-table-of-contents)  Company-Management-System
 > Personal statement to this project
 
 ---
@@ -761,7 +761,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## College-Admission-System
+## [↑](#-table-of-contents)  College-Admission-System
 > Personal statement to this project
 
 ---
@@ -785,7 +785,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Classroom-Management-System
+## [↑](#-table-of-contents)  Classroom-Management-System
 > Personal statement to this project
 
 ---
@@ -809,7 +809,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Charity-Management-System
+## [↑](#-table-of-contents)  Charity-Management-System
 > Personal statement to this project
 
 ---
@@ -833,7 +833,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Bookstore-Management-System
+## [↑](#-table-of-contents)  Bookstore-Management-System
 > Personal statement to this project
 
 ---
@@ -857,7 +857,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Museum-Management-System
+## [↑](#-table-of-contents)  Museum-Management-System
 > Personal statement to this project
 
 ---
@@ -881,7 +881,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Loan-Management-System
+## [↑](#-table-of-contents)  Loan-Management-System
 > Personal statement to this project
 
 ---
@@ -905,7 +905,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Library-Management-System
+## [↑](#-table-of-contents)  Library-Management-System
 > Personal statement to this project
 
 ---
@@ -929,7 +929,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Leave-Management-System
+## [↑](#-table-of-contents)  Leave-Management-System
 > Personal statement to this project
 
 ---
@@ -953,7 +953,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Learning-Log-System
+## [↑](#-table-of-contents)  Learning-Log-System
 > Personal statement to this project
 
 ---
@@ -977,7 +977,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Job-Management-System
+## [↑](#-table-of-contents)  Job-Management-System
 > Personal statement to this project
 
 ---
@@ -1001,7 +1001,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Inventory-Management-System
+## [↑](#-table-of-contents)  Inventory-Management-System
 > Personal statement to this project
 
 ---
@@ -1025,7 +1025,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Bank-Management-System
+## [↑](#-table-of-contents)  Bank-Management-System
 > Personal statement to this project
 
 ---
@@ -1049,7 +1049,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Asset-Management-System
+## [↑](#-table-of-contents) Asset-Management-System
 > Personal statement to this project
 
 ---
@@ -1073,7 +1073,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Insurance-Management-System
+## [↑](#-table-of-contents)  Insurance-Management-System
 > Personal statement to this project
 
 ---
@@ -1097,7 +1097,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## File-Upload-System
+## [↑](#-table-of-contents)  File-Upload-System
 > Personal statement to this project
 
 ---
@@ -1121,7 +1121,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Dairy-Management-System
+## [↑](#-table-of-contents)  Dairy-Management-System
 > Personal statement to this project
 
 ---
@@ -1145,7 +1145,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Customer-Feedback-System
+## [↑](#-table-of-contents)  Customer-Feedback-System
 > Personal statement to this project
 
 ---
@@ -1169,7 +1169,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Conference-Management-System
+## [↑](#-table-of-contents)  Conference-Management-System
 > Personal statement to this project
 
 ---
@@ -1193,7 +1193,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Complaint-Management-System
+## [↑](#-table-of-contents)  Complaint-Management-System
 > Personal statement to this project
 
 ---
@@ -1217,7 +1217,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## College-Management-System
+## [↑](#-table-of-contents)  College-Management-System
 > Personal statement to this project
 
 ---
@@ -1241,7 +1241,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Cargo-Management-System
+## [↑](#-table-of-contents)  Cargo-Management-System
 > Personal statement to this project
 
 ---
@@ -1265,7 +1265,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Canteen-Management-System
+## [↑](#-table-of-contents)  Canteen-Management-System
 > Personal statement to this project
 
 ---
@@ -1289,7 +1289,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Attendance-Management-System
+## [↑](#-table-of-contents)  Attendance-Management-System
 > Personal statement to this project
 
 ---
@@ -1313,7 +1313,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Art-Gallery-Management-System
+## [↑](#-table-of-contents)  Art-Gallery-Management-System
 > Personal statement to this project
 
 ---
@@ -1337,7 +1337,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Hairsalon-Management-and-Booking-System
+## [↑](#-table-of-contents)  Hairsalon-Management-and-Booking-System
 > Personal statement to this project
 
 ---
@@ -1361,7 +1361,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-DefectDojo
+## [↑](#-table-of-contents)  Django-DefectDojo
 > Personal statement to this project
 
 ---
@@ -1385,7 +1385,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django Channels
+## [↑](#-table-of-contents)  Django Channels
 > Personal statement to this project
 
 ---
@@ -1409,7 +1409,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-Storages
+## [↑](#-table-of-contents)  Django-Storages
 > Personal statement to this project
 
 ---
@@ -1433,7 +1433,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-graphene
+## [↑](#-table-of-contents)  Django-graphene
 > Integrate GraphQL into your Django project.
 
 ---
@@ -1457,7 +1457,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-Helpdesk
+## [↑](#-table-of-contents)  Django-Helpdesk
 > Personal statement to this project
 
 ---
@@ -1481,7 +1481,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-Haystack
+## [↑](#-table-of-contents)  Django-Haystack
 > Personal statement to this project
 
 ---
@@ -1505,7 +1505,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-debug-toolbar
+## [↑](#-table-of-contents)  Django-debug-toolbar
 > Personal statement to this project
 
 ---
@@ -1529,7 +1529,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-Guardian
+## [↑](#-table-of-contents)  Django-Guardian
 > Personal statement to this project
 
 ---
@@ -1553,7 +1553,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-Registration
+## [↑](#-table-of-contents)  Django-Registration
 > Personal statement to this project
 
 ---
@@ -1577,7 +1577,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## Django-Tastypie
+## [↑](#-table-of-contents)  Django-Tastypie
 > Personal statement to this project
 
 ---
@@ -1601,7 +1601,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
   
   ---
 ---
-## Django-Wiki
+## [↑](#-table-of-contents)  Django-Wiki
 > Personal statement to this project
 
 ---
@@ -1625,7 +1625,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
   
 ---
 ---
-## Django-Mptt
+## [↑](#-table-of-contents)  Django-Mptt
 > Personal statement to this project
 
 ---
@@ -1649,7 +1649,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## eLearning
+## [↑](#-table-of-contents)  eLearning
 > Personal statement to this project
 
 ---
@@ -1673,7 +1673,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
   
 ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents)  University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -1697,7 +1697,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents)  University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -1721,7 +1721,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents)  University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -1745,7 +1745,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents)  University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -1769,7 +1769,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
   
 ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents)  University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -1793,7 +1793,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
   
  ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents)  University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -1817,7 +1817,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
   
 ---
 ---
-## University-Residence-Management-System
+## [↑](#-table-of-contents)  University-Residence-Management-System
 > Personal statement to this project
 
 ---
@@ -1839,12 +1839,12 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 | Production Ready   | No |  
 | Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
   
-# Javascript
-# Flask
-# Hosted Projects
-# Projects
-# Educational Content  
-# Conference
+# [↑](#-table-of-contents)  Javascript
+# [↑](#-table-of-contents)  Flask
+# [↑](#-table-of-contents)  Hosted Projects
+# [↑](#-table-of-contents)  Projects
+# [↑](#-table-of-contents)  Educational Content  
+# [↑](#-table-of-contents)  Conference
   
 <div align="center">
   <a href="https://github.com/fallenour/directory#readme"></a><br>
