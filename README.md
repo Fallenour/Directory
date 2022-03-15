@@ -121,7 +121,10 @@ Please pardon the progress, updates are currently being made in real time to thi
 | OpenKVM | <space holder> | Link | In-Progress |
 | VMWare | <space holder> | Link | In-Progress |
 | Hyper-V | <space holder> | Link | In-Progress |
-| VirtualBox | <space holder> | Link | In-Progress |  
+| VirtualBox | <space holder> | Link | In-Progress |
+| Redis | <space holder> | Link | In-Progress |
+| Celery | <space holder> | Link | In-Progress |
+| SonarQube | <space holder> | Link | In-Progress |  
 
 ### Techniques, Tactics & Procedures
 | Resource Type | Synopsis | Link | Status |
