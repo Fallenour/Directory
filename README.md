@@ -75,12 +75,6 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 ---
 ---
-  
-# [↑](#tour-guide)Resource Directory
-> A curated list of resources compiled by me throughout my adventures. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
-
----
----
 
 # [↑](#tour-guide)Project Directory
 > A curated list of my projects, adopted projects, and projects that I actively contribute to or plan to. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
@@ -1656,6 +1650,10 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 ---
 ---
+  
+# [↑](#tour-guide)Resource Directory
+> A curated list of resources compiled by me throughout my adventures. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
+
 
 ## 📖 Table of Resources
 
