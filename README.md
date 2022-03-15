@@ -57,7 +57,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 ---
 ---
-<h2> Major Production Projects </h2>
+<h2> 💼 Major Production Projects </h2>
 
 | Project | Synopsis | Link |
 | ----------- | ----------- | ----------- |
