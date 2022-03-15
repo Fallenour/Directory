@@ -44,9 +44,10 @@ Reserved field of text for relative description.
 
 ---
 ---
+
 <div align="center">
   <a href="https://github.com/fallenour/directory#readme"></a><br>
-  <img width="4000" src="https://images.freeimages.com/images/large-previews/0ad/pirate-flag-1307092.jpg" alt="Pirate logo">
+  <img width="4000" src="https://i.pinimg.com/originals/9d/43/d4/9d43d45ab6cd7303707dbad3193bcb8b.jpg" alt="Pirate logo">
 </div>
 
 # Project Directory
@@ -1830,3 +1831,8 @@ Reserved field of text for relative description.
 # Projects
 # Educational Content  
 # Conference
+  
+<div align="center">
+  <a href="https://github.com/fallenour/directory#readme"></a><br>
+  <img width="4000" src="https://images.freeimages.com/images/large-previews/0ad/pirate-flag-1307092.jpg" alt="Pirate logo">
+</div>
