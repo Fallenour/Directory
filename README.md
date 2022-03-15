@@ -57,7 +57,18 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 ---
 ---
+<h2> Major Production Projects </h2>
 
+| Project | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Healthcare.gov | <space holder> | [Link](https://www.healthcare.gov) |
+| SBAOne/SBIROne | <space holder> | [Link](https://www.sba.gov/offices/district/sd/sioux-falls/resources/sba-one-information) |
+| PACER | <space holder> | [Link](https://pacer.uscourts.gov) |
+| Pentagon/Mark Center | <space holder> | [Link](https://www.govevents.com/details/13021/dod-mark-center/) [Link](https://2021dodtransition.defense.gov/Portals/42/Documents/WELCOME2021FINAL.pdf?ver=TvNWY0q9bbR_SGfaqeStTg%3D%3D) |
+| Aurora Project | <space holder> | [Link](https://www.alcf.anl.gov/aurora) |
+
+---
+---
 # Tour Guide
 > This Tour Guide is to assist you in the navigation of this rather lengthy tour of my professional & personal accomplishments. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
 
