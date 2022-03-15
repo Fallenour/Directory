@@ -120,8 +120,13 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 | <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | [Art-Gallery-Management-System](#-art-gallery-management-system) | [Link](https://github.com/Fallenour/Warehouse-Management-System-Django) | ![status](https://img.shields.io/badge/status-up-brightgreen) |
 | <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | [Hairsalon-Management-and-Booking-System](#-hairsalon-management-and-booking-system) | [Link](https://github.com/Fallenour/Warehouse-Management-System-Django) | ![status](https://img.shields.io/badge/status-up-brightgreen) |
 
+# Resource Directory
+> A curated list of resources compiled by me throughout my adventures. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
 
+## 📖 Table of Resources
 
+| Resource Type | Synopsis | Link | Status |
+| ----------- | ----------- | ----------- | ----------- |
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
@@ -131,7 +136,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
-| <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | [Warehouse Management System](#-warehouse-management-system) | [Link](https://github.com/Fallenour/Warehouse-Management-System-Django) | ![status](https://img.shields.io/badge/status-up-brightgreen) |
+
 
 - [Django](#Django)
   - [Warehouse Management System](#-warehouse-management-system)
