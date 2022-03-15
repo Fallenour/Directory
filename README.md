@@ -104,29 +104,30 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Systems
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
-| Elasticsearch | <space holder> | [Link] |
-| PostgreSQL | <space holder> | [Link] |
-| Saltstack | <space holder> | [Link] |
-| Chef | <space holder> | [Link] |
-| Puppet | <space holder> | [Link] |
-| Ansible | <space holder> | [Link] |
-| Juju | <space holder> | [Link] |
-| MaaS | <space holder> | [Link] |
-| HAProxy | <space holder> | [Link] |
-| NGinx | <space holder> | [Link] |
-| Docker | <space holder> | [Link] |
-| LXD | <space holder> | [Link] |
-| Openstack | <space holder> | [Link] |
-| OpenKVM | <space holder> | [Link] |
-| VMWare | <space holder> | [Link] |
-| Hyper-V | <space holder> | [Link] |
-| VirtualBox | <space holder> | [Link] |
-| Redis | <space holder> | [Link] |
-| Celery | <space holder> | [Link] |
-| SonarQube | <space holder> | [Link] |
-| MobSF | <space holder> | [Link] |
-| Gitlab | <space holder> | [Link] |
-| Jenkins | <space holder> | [Link] |
+| Elasticsearch | <space holder> | [Link](https://www.elastic.co) |
+| PostgreSQL | <space holder> | [Link](https://www.postgresql.org) |
+| Saltstack | <space holder> | [Link](https://saltproject.io) |
+| Chef | <space holder> | [Link](https://www.chef.io) |
+| Puppet | <space holder> | [Link](https://puppet.com) |
+| Ansible | <space holder> | [Link](https://www.ansible.com) |
+| Juju | <space holder> | [Link](https://jaas.ai) |
+| MaaS | <space holder> | [Link](https://maas.io) |
+| HAProxy | <space holder> | [Link](http://www.haproxy.org) |
+| NGinx | <space holder> | [Link](https://www.nginx.com) |
+| Docker | <space holder> | [Link](https://www.docker.com) |
+| LXD | <space holder> | [Link](https://linuxcontainers.org/lxd/) |
+| Openstack | <space holder> | [Link](https://www.openstack.org) |
+| OpenKVM | <space holder> | [Link](https://www.linux-kvm.org/page/Main_Page) |
+| VMWare | <space holder> | [Link](https://www.vmware.com) |
+| Hyper-V | <space holder> | [Link](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview) |
+| VirtualBox | <space holder> | [Link](https://www.virtualbox.org) |
+| Redis | <space holder> | [Link](https://redis.io) |
+| Celery | <space holder> | [Link](http://docs.celeryproject.org/en/) |
+| RabbitMQ | <space holder> | [Link](https://www.rabbitmq.com) |
+| SonarQube | <space holder> | [Link](https://www.sonarqube.org) |
+| MobSF | <space holder> | [Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF) |
+| Gitlab | <space holder> | [Link](https://about.gitlab.com) |
+| Jenkins | <space holder> | [Link](https://www.jenkins.io) |
   
 
 ### Tools
