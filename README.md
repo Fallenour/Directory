@@ -127,12 +127,12 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
   - [Coding](#Coding)
   - [Vendor](#Vendor)
   
-# [↑](#-table-of-contents) Javascript
-# [↑](#-table-of-contents) Flask
-# [↑](#-table-of-contents) Hosted Projects
-# [↑](#-table-of-contents) Projects
-# [↑](#-table-of-contents) Educational Content  
-# [↑](#-table-of-contents) Conference
+## [↑](#-table-of-contents) Javascript
+## [↑](#-table-of-contents) Flask
+## [↑](#-table-of-contents) Hosted Projects
+## [↑](#-table-of-contents) Projects
+## [↑](#-table-of-contents) Educational Content  
+## [↑](#-table-of-contents) Conference
 
 ---
 ---
