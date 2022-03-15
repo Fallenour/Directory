@@ -105,15 +105,23 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Tools
 | Resource Type | Synopsis | Link | Status |
 | ----------- | ----------- | ----------- | ----------- |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
-| Django, Fullstack | <space holder> | Link | In-Progress |
+| Elasticsearch | <space holder> | Link | In-Progress |
+| PostgreSQL | <space holder> | Link | In-Progress |
+| Saltstack | <space holder> | Link | In-Progress |
+| Chef | <space holder> | Link | In-Progress |
+| Puppet | <space holder> | Link | In-Progress |
+| Ansible | <space holder> | Link | In-Progress |
+| Juju | <space holder> | Link | In-Progress |
+| MaaS | <space holder> | Link | In-Progress |
+| HAProxy | <space holder> | Link | In-Progress |
+| NGinx | <space holder> | Link | In-Progress |
+| Docker | <space holder> | Link | In-Progress |
+| LXD | <space holder> | Link | In-Progress |
+| Openstack | <space holder> | Link | In-Progress |
+| OpenKVM | <space holder> | Link | In-Progress |
+| VMWare | <space holder> | Link | In-Progress |
+| Hyper-V | <space holder> | Link | In-Progress |
+| VirtualBox | <space holder> | Link | In-Progress |  
 
 ### Techniques, Tactics & Procedures
 | Resource Type | Synopsis | Link | Status |
