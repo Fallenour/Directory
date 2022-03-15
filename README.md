@@ -15,6 +15,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='40"'>
 
+
 <h2>Languages & Tools</h2>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -41,6 +42,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 <code><img height="40" src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png"></code>
 <code><img height="40" src="https://puppet.com/images/logos/puppet-logo-black.svg"></code>
 
+
 <h2> 💼 Major Production Projects </h2>
 
 | Project | Synopsis | Link |
@@ -51,7 +53,8 @@ Please pardon the progress, updates are currently being made in real time to thi
 | Pentagon/Mark Center | <space holder> | [Link](https://www.govevents.com/details/13021/dod-mark-center/) [Link](https://2021dodtransition.defense.gov/Portals/42/Documents/WELCOME2021FINAL.pdf?ver=TvNWY0q9bbR_SGfaqeStTg%3D%3D) |
 | Aurora Project | <space holder> | [Link](https://www.alcf.anl.gov/aurora) |
 
-<h2> 📫 Socials</h2>
+
+  <h2> 📫 Socials</h2>
 
 <p><a href="https://medium.com/@fallenour"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/fallenour"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 <p><a href="https://github.com/Fallenour/Directory">➡️ Check out my website</a></p>
@@ -59,6 +62,8 @@ Please pardon the progress, updates are currently being made in real time to thi
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 <br>
+
+
 <h2> ⚡ GitHub Stats</h2>
 <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fallenour&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallenour&layout=compact&theme=buefy&hide_border=true" /></a>
 
