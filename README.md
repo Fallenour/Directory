@@ -167,15 +167,12 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Educational Content
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
-| Real Python | <space holder> | [Link] |
-| TestDriven | <space holder> | [Link] |
-| SecurityTube | <space holder> | [Link] |
-| W3 School | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
-| Django, Fullstack | <space holder> | [Link] |
+| Real Python | <space holder> | [Link](https://realpython.com) |
+| TestDriven | <space holder> | [Link](https://testdriven.io/blog/) |
+| SecurityTube | <space holder> | [Link](http://www.securitytube.net) |
+| W3 School | <space holder> | [Link](https://www.w3schools.com) |
+| DigitalOcean Tutorials | <space holder> | [Link](https://www.digitalocean.com/community/tutorials) |
+| Corelan | <space holder> | [Link](https://www.corelan.be) |
 
 - [Javascript](#javascript)
 - [Flask](#flask)
