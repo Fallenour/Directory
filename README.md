@@ -102,7 +102,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 
 
-### Tools
+### Systems
 | Resource Type | Synopsis | Link | Status |
 | ----------- | ----------- | ----------- | ----------- |
 | Elasticsearch | <space holder> | Link | In-Progress |
@@ -124,6 +124,18 @@ Please pardon the progress, updates are currently being made in real time to thi
 | VirtualBox | <space holder> | Link | In-Progress |
 | Redis | <space holder> | Link | In-Progress |
 | Celery | <space holder> | Link | In-Progress |
+| SonarQube | <space holder> | Link | In-Progress |
+
+### Tools
+| Resource Type | Synopsis | Link | Status |
+| ----------- | ----------- | ----------- | ----------- |
+| Metasploit | <space holder> | Link | In-Progress |
+| Burpsuite | <space holder> | Link | In-Progress |   
+| Bloodhound | <space holder> | Link | In-Progress | 
+| NMap | <space holder> | Link | In-Progress |  
+| SQLMap | <space holder> | Link | In-Progress |  
+| SQLNinja | <space holder> | Link | In-Progress | 
+| MobSF | <space holder> | Link | In-Progress |  
 | SonarQube | <space holder> | Link | In-Progress |  
 
 ### Techniques, Tactics & Procedures
