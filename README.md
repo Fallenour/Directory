@@ -8,7 +8,7 @@ I believe respect & recognition are both earned, and I give credit where its due
 
 I acknowledge hardwork, effort, and honest attempts, even when it fails. I push people to become their best version of themselves, even if they don't believe it themselves, and I only believe you fail when you stop trying. I believe that anyone can become anything they can want to be, and they will become everything they believe they will be.
 
-Also, please pardon the progress, updates are currently being made in real time to this page. 
+Please pardon the progress, updates are currently being made in real time to this page. 
 
 <br>
 
