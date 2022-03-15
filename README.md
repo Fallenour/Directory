@@ -155,7 +155,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
 | BSides | <space holder> | [Link](http://www.securitybsides.com/w/page/12194156/FrontPage) |
-| Django, Fullstack | <space holder> | [Link] |
+| DjangoCon | <space holder> | [Link](https://2021.djangocon.us) |
 | Django, Fullstack | <space holder> | [Link] |
 | Django, Fullstack | <space holder> | [Link] |
 | Django, Fullstack | <space holder> | [Link] |
