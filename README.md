@@ -41,6 +41,15 @@ Please pardon the progress, updates are currently being made in real time to thi
 <code><img height="40" src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png"></code>
 <code><img height="40" src="https://puppet.com/images/logos/puppet-logo-black.svg"></code>
 
+<h2> 💼 Major Production Projects </h2>
+
+| Project | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Healthcare.gov | <space holder> | [Link](https://www.healthcare.gov) |
+| SBAOne/SBIROne | <space holder> | [Link](https://www.sba.gov/offices/district/sd/sioux-falls/resources/sba-one-information) |
+| PACER | <space holder> | [Link](https://pacer.uscourts.gov) |
+| Pentagon/Mark Center | <space holder> | [Link](https://www.govevents.com/details/13021/dod-mark-center/) [Link](https://2021dodtransition.defense.gov/Portals/42/Documents/WELCOME2021FINAL.pdf?ver=TvNWY0q9bbR_SGfaqeStTg%3D%3D) |
+| Aurora Project | <space holder> | [Link](https://www.alcf.anl.gov/aurora) |
 
 <h2> 📫 Socials</h2>
 
@@ -54,16 +63,6 @@ Please pardon the progress, updates are currently being made in real time to thi
 <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fallenour&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallenour&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <a href="https://github.com/fallenour/github-readme-stats"><img align="center" img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallenour&theme=github_dark" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fallenour&theme=github_dark" /></a>
-
-<h2> 💼 Major Production Projects </h2>
-
-| Project | Synopsis | Link |
-| ----------- | ----------- | ----------- |
-| Healthcare.gov | <space holder> | [Link](https://www.healthcare.gov) |
-| SBAOne/SBIROne | <space holder> | [Link](https://www.sba.gov/offices/district/sd/sioux-falls/resources/sba-one-information) |
-| PACER | <space holder> | [Link](https://pacer.uscourts.gov) |
-| Pentagon/Mark Center | <space holder> | [Link](https://www.govevents.com/details/13021/dod-mark-center/) [Link](https://2021dodtransition.defense.gov/Portals/42/Documents/WELCOME2021FINAL.pdf?ver=TvNWY0q9bbR_SGfaqeStTg%3D%3D) |
-| Aurora Project | <space holder> | [Link](https://www.alcf.anl.gov/aurora) |
 
 ---
 ---
