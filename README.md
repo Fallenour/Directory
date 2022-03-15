@@ -79,98 +79,6 @@ Please pardon the progress, updates are currently being made in real time to thi
 # [↑](#tour-guide)Resource Directory
 > A curated list of resources compiled by me throughout my adventures. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
 
-## 📖 Table of Resources
-
-### Programming Languages
-| Resource Type | Synopsis | Link |
-| ----------- | ----------- | ----------- |
-| Django | <space holder> | [Link](https://www.djangoproject.com) |
-| Flask | <space holder> | [Link](https://flask.palletsprojects.com/en/2.0.x/) |
-| Python | <space holder> | [Link](https://www.python.org) |
-| Javascript | <space holder> | [Link](https://www.javascript.com) |
-| VueJS | <space holder> | [Link](https://vuejs.org) |
-| ReactJS | <space holder> | [Link](https://reactjs.org) |
-| AngularJS | <space holder> | [Link](https://angularjs.org) |
-| NodeJS | <space holder> | [Link](https://nodejs.org/en/) |
-| MeteorJS | <space holder> | [Link](https://www.meteor.com) |
-| Bootstrap5 | <space holder> | [Link](https://getbootstrap.com) |
-| SASS | <space holder> | [Link](https://sass-lang.com) |
-| Tailwind | <space holder> | [Link](https://tailwindcss.com) |
-
-
-
-### Systems
-| Resource Type | Synopsis | Link |
-| ----------- | ----------- | ----------- |
-| Elasticsearch | <space holder> | [Link](https://www.elastic.co) |
-| PostgreSQL | <space holder> | [Link](https://www.postgresql.org) |
-| Saltstack | <space holder> | [Link](https://saltproject.io) |
-| Chef | <space holder> | [Link](https://www.chef.io) |
-| Puppet | <space holder> | [Link](https://puppet.com) |
-| Ansible | <space holder> | [Link](https://www.ansible.com) |
-| Juju | <space holder> | [Link](https://jaas.ai) |
-| MaaS | <space holder> | [Link](https://maas.io) |
-| HAProxy | <space holder> | [Link](http://www.haproxy.org) |
-| NGinx | <space holder> | [Link](https://www.nginx.com) |
-| Docker | <space holder> | [Link](https://www.docker.com) |
-| LXD | <space holder> | [Link](https://linuxcontainers.org/lxd/) |
-| Openstack | <space holder> | [Link](https://www.openstack.org) |
-| OpenKVM | <space holder> | [Link](https://www.linux-kvm.org/page/Main_Page) |
-| VMWare | <space holder> | [Link](https://www.vmware.com) |
-| Hyper-V | <space holder> | [Link](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview) |
-| VirtualBox | <space holder> | [Link](https://www.virtualbox.org) |
-| Redis | <space holder> | [Link](https://redis.io) |
-| Celery | <space holder> | [Link](http://docs.celeryproject.org/en/) |
-| RabbitMQ | <space holder> | [Link](https://www.rabbitmq.com) |
-| SonarQube | <space holder> | [Link](https://www.sonarqube.org) |
-| MobSF | <space holder> | [Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF) |
-| Gitlab | <space holder> | [Link](https://about.gitlab.com) |
-| Jenkins | <space holder> | [Link](https://www.jenkins.io) |
-  
-
-### Tools
-| Resource Type | Synopsis | Link |
-| ----------- | ----------- | ----------- |
-| Metasploit | <space holder> | [Link](https://www.metasploit.com) |
-| Burpsuite | <space holder> | [Link](https://portswigger.net/burp) |  
-| Bloodhound | <space holder> | [Link](https://github.com/BloodHoundAD/BloodHound) |
-| NMap | <space holder> | [Link](https://nmap.org) |
-| SQLMap | <space holder> | [Link](https://sqlmap.org) | 
-| SQLNinja | <space holder> | [Link](https://www.kali.org/tools/sqlninja/) |
-
-### Techniques, Tactics & Procedures
-| Resource Type | Synopsis | Link |
-| ----------- | ----------- | ----------- |
-| OSINT | <space holder> | [Link](https://github.com/fallenour/awesome-osint) |
-
-### Conferences
-| Resource Type | Synopsis | Link |
-| ----------- | ----------- | ----------- |
-| BSides | <space holder> | [Link](http://www.securitybsides.com/w/page/12194156/FrontPage) |
-| DjangoCon | <space holder> | [Link](https://2021.djangocon.us) |
-
-  
-### Educational Content
-| Resource Type | Synopsis | Link |
-| ----------- | ----------- | ----------- |
-| Real Python | <space holder> | [Link](https://realpython.com) |
-| TestDriven | <space holder> | [Link](https://testdriven.io/blog/) |
-| SecurityTube | <space holder> | [Link](http://www.securitytube.net) |
-| W3 School | <space holder> | [Link](https://www.w3schools.com) |
-| DigitalOcean Tutorials | <space holder> | [Link](https://www.digitalocean.com/community/tutorials) |
-| Corelan | <space holder> | [Link](https://www.corelan.be) |
-
-### Flask
-| Resource Type | Synopsis | Link |
-| ----------- | ----------- | ----------- |
-| Official Tutorial | <space holder> | [Link]() |
-| Educational | <space holder> | [Link]() |
-| Community | <space holder> | [Link]() |
-| Conferences | <space holder> | [Link]() |
-| Newsletters | <space holder> | [Link]() |
-| Podcasts | <space holder> | [Link]() |
-| Books | <space holder> | [Link]() |
-
 ---
 ---
 
@@ -1745,6 +1653,101 @@ Please pardon the progress, updates are currently being made in real time to thi
 | SAST/DAST Complete | SonarQube, No |  
 | Production Ready   | No |  
 | Link | [eLearning](https://github.com/Fallenour/eLearning) |
+
+---
+---
+
+## 📖 Table of Resources
+
+### Programming Languages
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Django | <space holder> | [Link](https://www.djangoproject.com) |
+| Flask | <space holder> | [Link](https://flask.palletsprojects.com/en/2.0.x/) |
+| Python | <space holder> | [Link](https://www.python.org) |
+| Javascript | <space holder> | [Link](https://www.javascript.com) |
+| VueJS | <space holder> | [Link](https://vuejs.org) |
+| ReactJS | <space holder> | [Link](https://reactjs.org) |
+| AngularJS | <space holder> | [Link](https://angularjs.org) |
+| NodeJS | <space holder> | [Link](https://nodejs.org/en/) |
+| MeteorJS | <space holder> | [Link](https://www.meteor.com) |
+| Bootstrap5 | <space holder> | [Link](https://getbootstrap.com) |
+| SASS | <space holder> | [Link](https://sass-lang.com) |
+| Tailwind | <space holder> | [Link](https://tailwindcss.com) |
+
+
+
+### Systems
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Elasticsearch | <space holder> | [Link](https://www.elastic.co) |
+| PostgreSQL | <space holder> | [Link](https://www.postgresql.org) |
+| Saltstack | <space holder> | [Link](https://saltproject.io) |
+| Chef | <space holder> | [Link](https://www.chef.io) |
+| Puppet | <space holder> | [Link](https://puppet.com) |
+| Ansible | <space holder> | [Link](https://www.ansible.com) |
+| Juju | <space holder> | [Link](https://jaas.ai) |
+| MaaS | <space holder> | [Link](https://maas.io) |
+| HAProxy | <space holder> | [Link](http://www.haproxy.org) |
+| NGinx | <space holder> | [Link](https://www.nginx.com) |
+| Docker | <space holder> | [Link](https://www.docker.com) |
+| LXD | <space holder> | [Link](https://linuxcontainers.org/lxd/) |
+| Openstack | <space holder> | [Link](https://www.openstack.org) |
+| OpenKVM | <space holder> | [Link](https://www.linux-kvm.org/page/Main_Page) |
+| VMWare | <space holder> | [Link](https://www.vmware.com) |
+| Hyper-V | <space holder> | [Link](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview) |
+| VirtualBox | <space holder> | [Link](https://www.virtualbox.org) |
+| Redis | <space holder> | [Link](https://redis.io) |
+| Celery | <space holder> | [Link](http://docs.celeryproject.org/en/) |
+| RabbitMQ | <space holder> | [Link](https://www.rabbitmq.com) |
+| SonarQube | <space holder> | [Link](https://www.sonarqube.org) |
+| MobSF | <space holder> | [Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF) |
+| Gitlab | <space holder> | [Link](https://about.gitlab.com) |
+| Jenkins | <space holder> | [Link](https://www.jenkins.io) |
+  
+
+### Tools
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Metasploit | <space holder> | [Link](https://www.metasploit.com) |
+| Burpsuite | <space holder> | [Link](https://portswigger.net/burp) |  
+| Bloodhound | <space holder> | [Link](https://github.com/BloodHoundAD/BloodHound) |
+| NMap | <space holder> | [Link](https://nmap.org) |
+| SQLMap | <space holder> | [Link](https://sqlmap.org) | 
+| SQLNinja | <space holder> | [Link](https://www.kali.org/tools/sqlninja/) |
+
+### Techniques, Tactics & Procedures
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| OSINT | <space holder> | [Link](https://github.com/fallenour/awesome-osint) |
+
+### Conferences
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| BSides | <space holder> | [Link](http://www.securitybsides.com/w/page/12194156/FrontPage) |
+| DjangoCon | <space holder> | [Link](https://2021.djangocon.us) |
+
+  
+### Educational Content
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Real Python | <space holder> | [Link](https://realpython.com) |
+| TestDriven | <space holder> | [Link](https://testdriven.io/blog/) |
+| SecurityTube | <space holder> | [Link](http://www.securitytube.net) |
+| W3 School | <space holder> | [Link](https://www.w3schools.com) |
+| DigitalOcean Tutorials | <space holder> | [Link](https://www.digitalocean.com/community/tutorials) |
+| Corelan | <space holder> | [Link](https://www.corelan.be) |
+
+### Flask
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Official Tutorial | <space holder> | [Link]() |
+| Educational | <space holder> | [Link]() |
+| Community | <space holder> | [Link]() |
+| Conferences | <space holder> | [Link]() |
+| Newsletters | <space holder> | [Link]() |
+| Podcasts | <space holder> | [Link]() |
+| Books | <space holder> | [Link]() |
 
 ---
 ---
