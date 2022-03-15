@@ -60,7 +60,7 @@ Also, please pardon the progress, updates are currently being made in real time 
 ---
 ---
 
-<div align="center"> <b>My Spirit Animal</b>
+<div align="center"> <b> ## My Spirit Animal</b>
   <a href="https://github.com/fallenour/directory#readme"></a><br>
   <img width="4000" src="https://i.pinimg.com/originals/9d/43/d4/9d43d45ab6cd7303707dbad3193bcb8b.jpg" alt="Spirit Animal logo">
 </div>
