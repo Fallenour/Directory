@@ -47,11 +47,11 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 | Project | Synopsis | Link |
 | ----------- | ----------- | ----------- |
-| Healthcare.gov | <space holder> | [Link](https://www.healthcare.gov) |
-| SBAOne/SBIROne | <space holder> | [Link](https://www.sba.gov/offices/district/sd/sioux-falls/resources/sba-one-information) |
-| PACER | <space holder> | [Link](https://pacer.uscourts.gov) |
-| Pentagon/Mark Center | <space holder> | [Link](https://www.govevents.com/details/13021/dod-mark-center/) [Link](https://2021dodtransition.defense.gov/Portals/42/Documents/WELCOME2021FINAL.pdf?ver=TvNWY0q9bbR_SGfaqeStTg%3D%3D) |
-| Aurora Project | <space holder> | [Link](https://www.alcf.anl.gov/aurora) |
+| Healthcare.gov | One of the largest insurance exchanges in the world | [Link](https://www.healthcare.gov) |
+| SBAOne/SBIROne | One of the largest loan processing platforms in the world | [Link](https://www.sba.gov/offices/district/sd/sioux-falls/resources/sba-one-information) |
+| PACER | One of the largest online platforms for legal documentaton, citation, and processing in the world | [Link](https://pacer.uscourts.gov) |
+| Pentagon/Mark Center |  | [Link](https://www.govevents.com/details/13021/dod-mark-center/) [Link](https://2021dodtransition.defense.gov/Portals/42/Documents/WELCOME2021FINAL.pdf?ver=TvNWY0q9bbR_SGfaqeStTg%3D%3D) |
+| Aurora Project | One of the largest, if not the largest, super computer in the world | [Link](https://www.alcf.anl.gov/aurora) |
 
 
   <h2> 📫 Socials</h2>
