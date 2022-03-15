@@ -2,9 +2,9 @@
 
 Caffiene fueled, adreneline driven, TDD based multi-discipline principal architect with a push it till it breaks mentality. 
 
-I believe respect & recognition are both earned, and I give credit where its due. You won't find participation trophies here.
-
 I acknowledge hardwork, effort, and honest attempts, even when it fails. I push people to become their best version of themselves, even if they don't believe it themselves, and I only believe you fail when you stop trying. I believe that anyone can become anything they can want to be, and they will become everything they believe they will be.
+
+If you are a looking for a mentor who will be willing to help you grow, develop, find work in the industry, or just a general friend to hang out with, feel free to reach out!
 
 Please pardon the progress, updates are currently being made in real time to this page. 
 
