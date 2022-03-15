@@ -357,8 +357,6 @@ Please pardon the progress, updates are currently being made in real time to thi
 | Production Ready   | No |  
 | Link | [University-Residence-Management-System](https://github.com/Fallenour/University-Residence-Management-System-Django) |
 
-#######
-
 ---
 ---
 ## [↑](#-table-of-contents) Teacher-Evaluation-System
