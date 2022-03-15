@@ -1,6 +1,6 @@
 <h2> 👋 Introduction </h2>
 
-Reserved field of text for relative description.
+Caffiene fueled, adreneline driven, TDD based multi-discipline principal architect with a push it till it breaks mentality. I'll eat your lunch, my lunch, and your mom's lunch too, because Im a fatass whos hungry for more, knowledge, capabilities, and those damn orange flavored creme filled cupcakes by Hostess. I give credit where its due. I acknowledge hardwork, effort, and honest attempts, even when it fails. If I don't like you, you won't have to wonder about it long.
 <br>
 <br>
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fallenour)
