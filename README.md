@@ -55,8 +55,6 @@ Please pardon the progress, updates are currently being made in real time to thi
 
 <a href="https://github.com/fallenour/github-readme-stats"><img align="center" img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fallenour&theme=github_dark" alt="Fallenour's github stats" /></a> <a href="https://github.com/fallenour/github-readme-stats"><img align="center" img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fallenour&theme=github_dark" /></a>
 
----
----
 <h2> 💼 Major Production Projects </h2>
 
 | Project | Synopsis | Link |
