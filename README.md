@@ -160,6 +160,17 @@ Please pardon the progress, updates are currently being made in real time to thi
 | DigitalOcean Tutorials | <space holder> | [Link](https://www.digitalocean.com/community/tutorials) |
 | Corelan | <space holder> | [Link](https://www.corelan.be) |
 
+### Flask
+| Resource Type | Synopsis | Link |
+| ----------- | ----------- | ----------- |
+| Official Tutorial | <space holder> | [Link]() |
+| Educational | <space holder> | [Link]() |
+| Community | <space holder> | [Link]() |
+| Conferences | <space holder> | [Link]() |
+| Newsletters | <space holder> | [Link]() |
+| Podcasts | <space holder> | [Link]() |
+| Books | <space holder> | [Link]() |
+
 - [Javascript](#javascript)
 - [Flask](#flask)
   - [Official Resources](#official-resources)
