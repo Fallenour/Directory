@@ -70,7 +70,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 ## 📖 Table of Contents
 
 - [Django](#Django)
-  - [Warehouse Management System](##Warehouse-Management-System)
+  - [Warehouse Management System](##-Warehouse-Management-System)
   - [Vehicle-Service-Management-System](#Vehicle-Service-Management-System)
   - [University-Residence-Management-System](#University-Residence-Management-System)
   - [Teacher-Evaluation-System](#Teacher-Evaluation-System)
