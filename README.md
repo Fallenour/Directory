@@ -72,6 +72,9 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 | ----------- | ----------- |
 | Resources| [Resource Directory](#resource-directory) |
 | Projects | [Project Directory](#project-directory) |
+
+---
+---
   
 # [↑](#tour-guide)Resource Directory
 > A curated list of resources compiled by me throughout my adventures. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
@@ -89,6 +92,51 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
 | Django, Fullstack | <space holder> | Link | In-Progress |
+
+- [Javascript](#javascript)
+- [Flask](#flask)
+  - [Official Resources](#official-resources)
+  - [Educational](#educational)
+  - [Community](#community)
+  - [Conferences](#conferences)
+  - [Newsletters](#newsletters)
+  - [Podcasts](#podcasts)
+  - [Books](#books)
+- [Hosted Projects](#hosting)
+  - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
+  - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
+- [Projects](#projects)
+  - [Boilerplate](#boilerplate)
+- [Educational Content](#Educational-Content)
+  - [Awesome-Django](#-awesome-django)
+  - [Awesome-Javascript](#-awesome-javascript)
+  - [Awesome-Flask](#-awesome-flask)
+  - [Awesome-Bootstrap5](#-awesome-bootstrap)
+  - [Awesome-sass](#-awesome-sass)
+  - [Awesome-css](#-awesome-css)
+  - [Awesome-tailwind](#-awesome-tailwind)
+  - [Awesome-elastic](#-awesome-elastic)
+  - [Awesome-postgres](#-awesome-postgres)
+  - [Awesome-saltstack](#-awesome-saltstack)
+  - [Awesome-osint](#-awesome-osint)
+  - [Awesome-git](#-awesome-git)
+  - [Awesome-github](#-awesome-github)
+- [Conference Talks](#conference)
+  - [BSides](#BSides)
+  - [University](#University)
+  - [Coding](#Coding)
+  - [Vendor](#Vendor)
+  
+# [↑](#-table-of-contents) Javascript
+# [↑](#-table-of-contents) Flask
+# [↑](#-table-of-contents) Hosted Projects
+# [↑](#-table-of-contents) Projects
+# [↑](#-table-of-contents) Educational Content  
+# [↑](#-table-of-contents) Conference
+
+---
+---
+  
 
 
 
@@ -149,96 +197,6 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 | <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | [Attendance-Management-System](#-attendance-management-system) | [Link](https://github.com/Fallenour/Attendance-Management-System-Django) | ![status](https://img.shields.io/badge/status-up-brightgreen) |
 | <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | [Art-Gallery-Management-System](#-art-gallery-management-system) | [Link](https://github.com/Fallenour/Art-Gallery-Management-System-Django) | ![status](https://img.shields.io/badge/status-up-brightgreen) |
 | <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | [Hairsalon-Management-and-Booking-System](#-hairsalon-management-and-booking-system) | [Link](https://github.com/Fallenour/Hairsalon-Management-and-Booking-System) | ![status](https://img.shields.io/badge/status-up-brightgreen) |
-
-
-
-
-- [Django](#Django)
-  - [Warehouse Management System](#-warehouse-management-system)
-  - [Vehicle-Service-Management-System](#-vehicle-service-management-system)
-  - [University-Residence-Management-System](#-university-residence-management-system)
-  - [Teacher-Evaluation-System](#-teacher-evaluation-system)
-  - [Supermarket-Management-System](#-supermarket-management-system)
-  - [Student-Requisition-System](#-student-requisition-system)
-  - [Student-Management-System](#-student-management-system)
-  - [Student-Feedback-System](#-student-feedback-system)
-  - [School-Management-System](#-school-management-system)
-  - [Quiz-Management-System](#-quiz-management-system)
-  - [Project-Management-System](#-project-management-system)
-  - [Portfolio-Management-System](#-portfolio-management-system)
-  - [Pathology-Lab-Management-System](#-pathology-lab-management-system)
-  - [Water-Management-System](#-water-management-system)
-  - [Video-Management-System](#-video-management-system)
-  - [Medical-Management-System](#-medical-management-system)
-  - [Learning-Management-System](#-learning-management-system)  ####################
-  - [Job-Portal-System](#-job-portal-system)
-  - [Healthcare-Management-System](#-healthcare-management-system) ##############################
-  - [Grading-Management-System](#-grading-management-system) ##################################
-  - [University-Residence-Management-System](#-university-residence-management-system) ####################
-  - [Food-Ordering-System](#-food-ordering-system) #############################
-  - [Financial-Management-System](#-financial-management-system) #####################
-  - [Diagnostic-Lab-Reporting-System](#-diagnostic-lab-reporting-system)
-  - [Company-Management-System](#-company-management-system) ##############################
-  - [College-Admission-System](#-college-admission-system) ##################
-  - [Classroom-Management-System](#-classroom-management-system) #####################
-  - [Charity-Management-System](#-charity-management-system)
-  - [Bookstore-Management-System](#-bookstore-management-system)
-  - [Museum-Management-System](#-museum-management-system) ###################################
-  - [Loan-Management-System](#-loan-management-system)
-  - [Library-Management-System](#-library-management-system) #############################
-  - [Leave-Management-System](#-leave-management-system)
-  - [Learning-Log-System](#-learning-log-system) ###########################
-  - [Job-Management-System](#-job-management-system) ##############################
-  - [Inventory-Management-System](#-inventory-management-system) 
-  - [Bank-Management-System](#-bank-management-system) ############################
-  - [Asset-Management-System](#-asset-management-system)  #####################
-  - [Insurance-Management-System](#-insurance-management-system)
-  - [File-Upload-System](#-file-upload-system)
-  - [Dairy-Management-System](#-dairy-management-system)
-  - [Customer-Feedback-System](#-customer-feedback-system)
-  - [Conference-Management-System](#-conference-management-system)
-  - [Complaint-Management-System](#-complaint-management-system)
-  - [College-Management-System](#-college-management-system)
-  - [Cargo-Management-System](#-cargo-management-system)
-  - [Canteen-Management-System](#-canteen-management-system)
-  - [Attendance-Management-System](#-attendance-management-system)
-  - [Art-Gallery-Management-System](#-art-gallery-management-system)
-  - [Hairsalon-Management-and-Booking-System](#-hairsalon-management-and-booking-system)
-  - [Users](#users)
-  - [Views](#views) 
-- [Javascript](#javascript)
-- [Flask](#flask)
-  - [Official Resources](#official-resources)
-  - [Educational](#educational)
-  - [Community](#community)
-  - [Conferences](#conferences)
-  - [Newsletters](#newsletters)
-  - [Podcasts](#podcasts)
-  - [Books](#books)
-- [Hosted Projects](#hosting)
-  - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
-  - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
-- [Projects](#projects)
-  - [Boilerplate](#boilerplate)
-- [Educational Content](#Educational-Content)
-  - [Awesome-Django](#-awesome-django)
-  - [Awesome-Javascript](#-awesome-javascript)
-  - [Awesome-Flask](#-awesome-flask)
-  - [Awesome-Bootstrap5](#-awesome-bootstrap)
-  - [Awesome-sass](#-awesome-sass)
-  - [Awesome-css](#-awesome-css)
-  - [Awesome-tailwind](#-awesome-tailwind)
-  - [Awesome-elastic](#-awesome-elastic)
-  - [Awesome-postgres](#-awesome-postgres)
-  - [Awesome-saltstack](#-awesome-saltstack)
-  - [Awesome-osint](#-awesome-osint)
-  - [Awesome-git](#-awesome-git)
-  - [Awesome-github](#-awesome-github)
-- [Conference Talks](#conference)
-  - [BSides](#BSides)
-  - [University](#University)
-  - [Coding](#Coding)
-  - [Vendor](#Vendor)
 
 ---
 ---
