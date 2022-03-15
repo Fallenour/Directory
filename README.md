@@ -2,15 +2,16 @@
 
 Caffiene fueled, adreneline driven, TDD based multi-discipline principal architect with a push it till it breaks mentality. 
 
-I'll eat your lunch, my lunch, the ticket queue, and the pipeline too, because I want it more than you do & Im a fatass whos hungry for more knowledge, capabilities, and those damn orange flavored creme filled cupcakes by Hostess. 
+I'm more competitive than Gaius Diocles, and care for money about as much. I'll eat your lunch, my lunch, the ticket queue, and the pipeline too, because I want it more than you do & Im a fatass whos hungry for more knowledge, capabilities, and those damn orange flavored creme filled cupcakes by Hostess. 
 
-I believe respect & recognition are both earned, and I give credit where its due. 
+I believe respect & recognition are both earned, and I give credit where its due. You won't find participation trophies here.
 
-I acknowledge hardwork, effort, and honest attempts, even when it fails. I push people to become their best version of themselves, even if they don't believe it themselves, and I don't accept the mediocre version of you. I believe that anyone can become anything they can want to be, and they will become everything they believe they will be. 
+I acknowledge hardwork, effort, and honest attempts, even when it fails. I push people to become their best version of themselves, even if they don't believe it themselves, and I only believe you fail when you stop trying.
 
-If I don't like you, you won't have to wonder about it long.
+I believe that anyone can become anything they can want to be, and they will become everything they believe they will be. 
 <br>
 <br>
+
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fallenour)
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
@@ -66,7 +67,7 @@ If I don't like you, you won't have to wonder about it long.
 </div>
 
 # Project Directory
-> A curated list of my projects. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
+> A curated list of my projects, adopted projects, and projects that I actively contribute to or plan to. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
 
 ## Table of Contents
 
