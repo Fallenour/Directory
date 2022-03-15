@@ -86,19 +86,18 @@ Please pardon the progress, updates are currently being made in real time to thi
 ### Programming Languages
 | Resource Type | Synopsis | Link |
 | ----------- | ----------- | ----------- |
-| Django | <space holder> | [Link] |
-| Flask | <space holder> | [Link] |
-| Python | <space holder> | [Link] |
-| Javascript | <space holder> | [Link] |
-| VueJS | <space holder> | [Link] |
-| ReactJS | <space holder> | [Link] |
-| AngularJS | <space holder> | [Link] |
-| NodeJS | <space holder> | [Link] |
-| MeteorJS | <space holder> | [Link] |
-| Bootstrap5 | <space holder> | [Link] |
-| SASS | <space holder> | [Link] |
-| CSS3 | <space holder> | [Link] |
-| Tailwind | <space holder> | [Link] |
+| Django | <space holder> | [Link](https://www.djangoproject.com) |
+| Flask | <space holder> | [Link](https://flask.palletsprojects.com/en/2.0.x/) |
+| Python | <space holder> | [Link](https://www.python.org) |
+| Javascript | <space holder> | [Link](https://www.javascript.com) |
+| VueJS | <space holder> | [Link](https://vuejs.org) |
+| ReactJS | <space holder> | [Link](https://reactjs.org) |
+| AngularJS | <space holder> | [Link](https://angularjs.org) |
+| NodeJS | <space holder> | [Link](https://nodejs.org/en/) |
+| MeteorJS | <space holder> | [Link](https://www.meteor.com) |
+| Bootstrap5 | <space holder> | [Link](https://getbootstrap.com) |
+| SASS | <space holder> | [Link](https://sass-lang.com) |
+| Tailwind | <space holder> | [Link](https://tailwindcss.com) |
 
 
 
