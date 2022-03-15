@@ -73,7 +73,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 | Resources| [Resource Directory](#resource-directory) |
 | Projects | [Project Directory](#project-directory) |
   
-# Resource Directory
+# [↑](#tour-guide)Resource Directory
 > A curated list of resources compiled by me throughout my adventures. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
 
 ## 📖 Table of Resources
@@ -92,7 +92,7 @@ I acknowledge hardwork, effort, and honest attempts, even when it fails. I push 
 
 
 
-# Project Directory
+# [↑](#tour-guide)Project Directory
 > A curated list of my projects, adopted projects, and projects that I actively contribute to or plan to. Maintained by <a rel="" href="https://github.com/fallenour">Logan Hicks</a>.
 
 ## 📖 Table of Contents
