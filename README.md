@@ -14,7 +14,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fallenour)
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='40"'>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='40'>
 
 <h2>Languages & Tools</h2>
 
@@ -55,7 +55,7 @@ Please pardon the progress, updates are currently being made in real time to thi
 | Aurora Project | One of the largest, if not the largest, super computer in the world | [Link](https://www.alcf.anl.gov/aurora) |
 
 
-  <h2> 📫 Socials</h2>
+<h2> 📫 Socials</h2>
 
 <p><a href="https://medium.com/@fallenour"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/fallenour"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 <p><a href="https://github.com/Fallenour/Directory">➡️ Check out my website</a></p>
